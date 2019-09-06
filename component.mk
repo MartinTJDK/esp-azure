@@ -37,6 +37,7 @@ azure-iot-sdk-c/c-utility/pal/tlsio_options.o \
 port/src/agenttime_esp.o \
 port/src/platform_esp.o \
 port/src/tlsio_esp_tls.o \
+port/src/httpapi_esp.o \
 \
 azure-iot-sdk-c/c-utility/src/xlogging.o \
 azure-iot-sdk-c/c-utility/src/singlylinkedlist.o \
